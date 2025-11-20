@@ -1,7 +1,7 @@
 Brute-Force Cryptanalysis
 
 Author: Nebojsa Simic
-Date: 11/20/2026
+Date: 11/20/2025
 
 DESCRIPTION:
 ------------
