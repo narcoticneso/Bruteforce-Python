@@ -1,0 +1,17 @@
+Following text was taken from our Department Website:
+A computer science education will give you a solid grounding in logic,
+strategic thinking and teamwork--skills you can use whether you choose
+a career in CS or go on to medical school, business school or another
+field. And of course, CS will enable you to do cool things with
+software! Through your elective choices, you can choose to specialize
+in databases/data mining, networking and systems, artificial
+intelligence, security or software engineering.
+A software engineer is consistently rated as one of the top jobs by
+Money magazine and Reuters. This isn't just because software engineers
+have good salaries; compared to other jobs, they also have great
+flexibility and only moderate stress. Some of the great positions you
+can earn with your degree are application developer, technical
+marketer, system analyst and project manager. Plus, there are many
+great jobs reliant on CS that have yet to be invented. Note that all
+of these jobs require strong interpersonal skills, so don't think that
+computer scientist doesn't get to interact with other people! 
